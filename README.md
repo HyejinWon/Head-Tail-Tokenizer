@@ -1,6 +1,6 @@
 ### Head-Tail Tokenizer
 
-'Information Retrivel' class projoct in Kookmin University.
+This is Kookmin University's 'Information Retrieval' class project.
 
 This code make Head-Tail Tokenizer from Universal Dependency corpus to Head-Tail corpus.
 
